@@ -1,0 +1,12 @@
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\LoggingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\LoggingLibrary.AssemblyInfoInputs.cache
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\LoggingLibrary.AssemblyInfo.cs
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\LoggingLibrary.csproj.CoreCompileInputs.cache
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\LoggingLibrary.sourcelink.json
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\bin\Debug\net8.0\LoggingLibrary.deps.json
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\bin\Debug\net8.0\LoggingLibrary.dll
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\bin\Debug\net8.0\LoggingLibrary.pdb
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\LoggingLibrary.dll
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\refint\LoggingLibrary.dll
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\LoggingLibrary.pdb
+D:\zgit-repo\master-repo\logging-library\LoggingLibrary\obj\Debug\net8.0\ref\LoggingLibrary.dll
